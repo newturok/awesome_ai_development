@@ -8,4 +8,4 @@
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 
 ## Frontend
-- [openv0](https://github.com/raidendotai/openv0) - AI generated UI (react+tailwind) components 
+- [openv0](https://github.com/raidendotai/openv0) - AI generated UI components 

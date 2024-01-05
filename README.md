@@ -8,6 +8,7 @@
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [XAgent](https://github.com/OpenBMB/XAgent) — An Autonomous LLM Agent for Complex Task Solving
+- [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) — Specify what you want it to build, the AI asks for clarification, and then builds it.
 
 ## Frontend
 - [openv0](https://github.com/raidendotai/openv0) - AI generated UI components 
